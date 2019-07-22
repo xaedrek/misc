@@ -11,20 +11,10 @@
                     "id": 11,
                     "name": "type1",
                     "instructions": "TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions",
-                    "priority": 1000,
-                    "image": "/assets/type1.png",
-                    "version": 0,
-                    "dateCreated": "18/07/2019 12:57:07",
-                    "lastUpdated": "18/07/2019 12:57:07",
-                    "dateCreatedEPOC": 1563447427232,
-                    "lastUpdatedEPOC": 1563447427232
+                    "priority": 1000
                 },
                 "image": "/assets/point.jpg",
-                "version": 1,
-                "dateCreated": "18/07/2019 12:57:07",
-                "lastUpdated": "18/07/2019 12:57:07",
-                "dateCreatedEPOC": 1563447427271,
-                "lastUpdatedEPOC": 1563447427328
+                "version": 1
             },
             {
                 "id": 37,
@@ -35,19 +25,9 @@
                     "name": "type5",
                     "instructions": "Test instructionsTestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructionsTestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions",
                     "priority": 100,
-                    "image": "/assets/type5.png",
-                    "version": 0,
-                    "dateCreated": "18/07/2019 12:57:07",
-                    "lastUpdated": "18/07/2019 12:57:07",
-                    "dateCreatedEPOC": 1563447427248,
-                    "lastUpdatedEPOC": 1563447427248
                 },
                 "image": "/assets/point.jpg",
                 "version": 1,
-                "dateCreated": "18/07/2019 12:57:07",
-                "lastUpdated": "18/07/2019 12:57:07",
-                "dateCreatedEPOC": 1563447427293,
-                "lastUpdatedEPOC": 1563447427334
             },
             {
                 "id": 39,
@@ -57,13 +37,7 @@
                     "id": 15,
                     "name": "type5",
                     "instructions": "Test instructionsTestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructionsTestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions",
-                    "priority": 100,
-                    "image": "/assets/type5.png",
-                    "version": 0,
-                    "dateCreated": "18/07/2019 12:57:07",
-                    "lastUpdated": "18/07/2019 12:57:07",
-                    "dateCreatedEPOC": 1563447427248,
-                    "lastUpdatedEPOC": 1563447427248
+                    "priority": 100
                 },
                 "image": "/assets/point.jpg",
                 "version": 1,
@@ -80,13 +54,7 @@
                     "id": 15,
                     "name": "type5",
                     "instructions": "Test instructionsTestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructionsTestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions",
-                    "priority": 100,
-                    "image": "/assets/type5.png",
-                    "version": 0,
-                    "dateCreated": "18/07/2019 12:57:07",
-                    "lastUpdated": "18/07/2019 12:57:07",
-                    "dateCreatedEPOC": 1563447427248,
-                    "lastUpdatedEPOC": 1563447427248
+                    "priority": 100
                 },
                 "image": "/assets/point.jpg",
                 "version": 1,
@@ -103,13 +71,7 @@
                     "id": 15,
                     "name": "type5",
                     "instructions": "Test instructionsTestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructionsTestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions",
-                    "priority": 100,
-                    "image": "/assets/type5.png",
-                    "version": 0,
-                    "dateCreated": "18/07/2019 12:57:07",
-                    "lastUpdated": "18/07/2019 12:57:07",
-                    "dateCreatedEPOC": 1563447427248,
-                    "lastUpdatedEPOC": 1563447427248
+                    "priority": 100
                 },
                 "image": "/assets/point.jpg",
                 "version": 1,
@@ -126,13 +88,7 @@
                     "id": 15,
                     "name": "type5",
                     "instructions": "Test instructionsTestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructionsTestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions",
-                    "priority": 100,
-                    "image": "/assets/type5.png",
-                    "version": 0,
-                    "dateCreated": "18/07/2019 12:57:07",
-                    "lastUpdated": "18/07/2019 12:57:07",
-                    "dateCreatedEPOC": 1563447427248,
-                    "lastUpdatedEPOC": 1563447427248
+                    "priority": 100
                 },
                 "image": "/assets/point.jpg",
                 "version": 1,
@@ -149,13 +105,7 @@
                     "id": 15,
                     "name": "type5",
                     "instructions": "Test instructionsTestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructionsTestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions",
-                    "priority": 100,
-                    "image": "/assets/type5.png",
-                    "version": 0,
-                    "dateCreated": "18/07/2019 12:57:07",
-                    "lastUpdated": "18/07/2019 12:57:07",
-                    "dateCreatedEPOC": 1563447427248,
-                    "lastUpdatedEPOC": 1563447427248
+                    "priority": 100
                 },
                 "image": "/assets/point.jpg",
                 "version": 1,
@@ -172,13 +122,7 @@
                     "id": 15,
                     "name": "type5",
                     "instructions": "Test instructionsTestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructionsTestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions",
-                    "priority": 100,
-                    "image": "/assets/type5.png",
-                    "version": 0,
-                    "dateCreated": "18/07/2019 12:57:07",
-                    "lastUpdated": "18/07/2019 12:57:07",
-                    "dateCreatedEPOC": 1563447427248,
-                    "lastUpdatedEPOC": 1563447427248
+                    "priority": 100
                 },
                 "image": "/assets/point.jpg",
                 "version": 1,
@@ -195,20 +139,10 @@
                     "id": 15,
                     "name": "type5",
                     "instructions": "Test instructionsTestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructionsTestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions",
-                    "priority": 100,
-                    "image": "/assets/type5.png",
-                    "version": 0,
-                    "dateCreated": "18/07/2019 12:57:07",
-                    "lastUpdated": "18/07/2019 12:57:07",
-                    "dateCreatedEPOC": 1563447427248,
-                    "lastUpdatedEPOC": 1563447427248
+                    "priority": 100
                 },
                 "image": "/assets/point.jpg",
-                "version": 1,
-                "dateCreated": "18/07/2019 12:57:07",
-                "lastUpdated": "18/07/2019 12:57:07",
-                "dateCreatedEPOC": 1563447427303,
-                "lastUpdatedEPOC": 1563447427337
+                "version": 1
             },
             {
                 "id": 38,
@@ -218,20 +152,10 @@
                     "id": 15,
                     "name": "type5",
                     "instructions": "Test instructionsTestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructionsTestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions",
-                    "priority": 100,
-                    "image": "/assets/type5.png",
-                    "version": 0,
-                    "dateCreated": "18/07/2019 12:57:07",
-                    "lastUpdated": "18/07/2019 12:57:07",
-                    "dateCreatedEPOC": 1563447427248,
-                    "lastUpdatedEPOC": 1563447427248
+                    "priority": 100
                 },
                 "image": "/assets/point.jpg",
-                "version": 1,
-                "dateCreated": "18/07/2019 12:57:07",
-                "lastUpdated": "18/07/2019 12:57:07",
-                "dateCreatedEPOC": 1563447427295,
-                "lastUpdatedEPOC": 1563447427334
+                "version": 1
             },
             {
                 "id": 16,
@@ -241,20 +165,10 @@
                     "id": 11,
                     "name": "type1",
                     "instructions": "TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions",
-                    "priority": 1000,
-                    "image": "/assets/type1.png",
-                    "version": 0,
-                    "dateCreated": "18/07/2019 12:57:07",
-                    "lastUpdated": "18/07/2019 12:57:07",
-                    "dateCreatedEPOC": 1563447427232,
-                    "lastUpdatedEPOC": 1563447427232
+                    "priority": 1000
                 },
                 "image": "/assets/point.jpg",
-                "version": 1,
-                "dateCreated": "18/07/2019 12:57:07",
-                "lastUpdated": "18/07/2019 12:57:07",
-                "dateCreatedEPOC": 1563447427251,
-                "lastUpdatedEPOC": 1563447427322
+                "version": 1
             },
             {
                 "id": 44,
@@ -264,20 +178,10 @@
                     "id": 15,
                     "name": "type5",
                     "instructions": "Test instructionsTestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructionsTestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions",
-                    "priority": 100,
-                    "image": "/assets/type5.png",
-                    "version": 0,
-                    "dateCreated": "18/07/2019 12:57:07",
-                    "lastUpdated": "18/07/2019 12:57:07",
-                    "dateCreatedEPOC": 1563447427248,
-                    "lastUpdatedEPOC": 1563447427248
+                    "priority": 100
                 },
                 "image": "/assets/point.jpg",
-                "version": 1,
-                "dateCreated": "18/07/2019 12:57:07",
-                "lastUpdated": "18/07/2019 12:57:07",
-                "dateCreatedEPOC": 1563447427306,
-                "lastUpdatedEPOC": 1563447427338
+                "version": 1
             }
         ],
         "image": "/assets/machine.jpg",
@@ -299,20 +203,10 @@
                     "id": 15,
                     "name": "type5",
                     "instructions": "Test instructionsTestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructionsTestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions",
-                    "priority": 100,
-                    "image": "/assets/type5.png",
-                    "version": 0,
-                    "dateCreated": "18/07/2019 12:57:07",
-                    "lastUpdated": "18/07/2019 12:57:07",
-                    "dateCreatedEPOC": 1563447427248,
-                    "lastUpdatedEPOC": 1563447427248
+                    "priority": 100
                 },
                 "image": "/assets/point.jpg",
-                "version": 1,
-                "dateCreated": "18/07/2019 12:57:07",
-                "lastUpdated": "18/07/2019 12:57:07",
-                "dateCreatedEPOC": 1563447427290,
-                "lastUpdatedEPOC": 1563447427333
+                "version": 1
             },
             {
                 "id": 25,
@@ -322,28 +216,14 @@
                     "id": 15,
                     "name": "type5",
                     "instructions": "Test instructionsTestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructionsTestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions",
-                    "priority": 100,
-                    "image": "/assets/type5.png",
-                    "version": 0,
-                    "dateCreated": "18/07/2019 12:57:07",
-                    "lastUpdated": "18/07/2019 12:57:07",
-                    "dateCreatedEPOC": 1563447427248,
-                    "lastUpdatedEPOC": 1563447427248
+                    "priority": 100
                 },
                 "image": "/assets/point.jpg",
-                "version": 1,
-                "dateCreated": "18/07/2019 12:57:07",
-                "lastUpdated": "18/07/2019 12:57:07",
-                "dateCreatedEPOC": 1563447427268,
-                "lastUpdatedEPOC": 1563447427328
+                "version": 1
             }
         ],
         "image": "/assets/machine.jpg",
-        "version": 1,
-        "dateCreated": "18/07/2019 12:57:07",
-        "lastUpdated": "18/07/2019 12:57:07",
-        "dateCreatedEPOC": 1563447427215,
-        "lastUpdatedEPOC": 1563447427321
+        "version": 1
     },
     {
         "id": 2,
@@ -357,20 +237,10 @@
                     "id": 12,
                     "name": "type2",
                     "instructions": "TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions",
-                    "priority": 0,
-                    "image": "/assets/type2.png",
-                    "version": 0,
-                    "dateCreated": "18/07/2019 12:57:07",
-                    "lastUpdated": "18/07/2019 12:57:07",
-                    "dateCreatedEPOC": 1563447427236,
-                    "lastUpdatedEPOC": 1563447427236
+                    "priority": 0
                 },
                 "image": "/assets/point.jpg",
-                "version": 1,
-                "dateCreated": "18/07/2019 12:57:07",
-                "lastUpdated": "18/07/2019 12:57:07",
-                "dateCreatedEPOC": 1563447427273,
-                "lastUpdatedEPOC": 1563447427329
+                "version": 1
             },
             {
                 "id": 17,
@@ -380,28 +250,14 @@
                     "id": 12,
                     "name": "type2",
                     "instructions": "TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions",
-                    "priority": 0,
-                    "image": "/assets/type2.png",
-                    "version": 0,
-                    "dateCreated": "18/07/2019 12:57:07",
-                    "lastUpdated": "18/07/2019 12:57:07",
-                    "dateCreatedEPOC": 1563447427236,
-                    "lastUpdatedEPOC": 1563447427236
+                    "priority": 0
                 },
                 "image": "/assets/point.jpg",
-                "version": 1,
-                "dateCreated": "18/07/2019 12:57:07",
-                "lastUpdated": "18/07/2019 12:57:07",
-                "dateCreatedEPOC": 1563447427253,
-                "lastUpdatedEPOC": 1563447427323
+                "version": 1
             }
         ],
         "image": "/assets/machine.jpg",
-        "version": 1,
-        "dateCreated": "18/07/2019 12:57:07",
-        "lastUpdated": "18/07/2019 12:57:07",
-        "dateCreatedEPOC": 1563447427193,
-        "lastUpdatedEPOC": 1563447427315
+        "version": 1
     },
     {
         "id": 3,
@@ -415,20 +271,10 @@
                     "id": 13,
                     "name": "type3",
                     "instructions": "TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions",
-                    "priority": 500,
-                    "image": "/assets/type3.png",
-                    "version": 0,
-                    "dateCreated": "18/07/2019 12:57:07",
-                    "lastUpdated": "18/07/2019 12:57:07",
-                    "dateCreatedEPOC": 1563447427240,
-                    "lastUpdatedEPOC": 1563447427240
+                    "priority": 500
                 },
                 "image": "/assets/point.jpg",
-                "version": 1,
-                "dateCreated": "18/07/2019 12:57:07",
-                "lastUpdated": "18/07/2019 12:57:07",
-                "dateCreatedEPOC": 1563447427255,
-                "lastUpdatedEPOC": 1563447427323
+                "version": 1
             },
             {
                 "id": 28,
@@ -438,28 +284,14 @@
                     "id": 13,
                     "name": "type3",
                     "instructions": "TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions",
-                    "priority": 500,
-                    "image": "/assets/type3.png",
-                    "version": 0,
-                    "dateCreated": "18/07/2019 12:57:07",
-                    "lastUpdated": "18/07/2019 12:57:07",
-                    "dateCreatedEPOC": 1563447427240,
-                    "lastUpdatedEPOC": 1563447427240
+                    "priority": 500
                 },
                 "image": "/assets/point.jpg",
-                "version": 1,
-                "dateCreated": "18/07/2019 12:57:07",
-                "lastUpdated": "18/07/2019 12:57:07",
-                "dateCreatedEPOC": 1563447427275,
-                "lastUpdatedEPOC": 1563447427330
+                "version": 1
             }
         ],
         "image": "/assets/machine.jpg",
-        "version": 1,
-        "dateCreated": "18/07/2019 12:57:07",
-        "lastUpdated": "18/07/2019 12:57:07",
-        "dateCreatedEPOC": 1563447427196,
-        "lastUpdatedEPOC": 1563447427316
+        "version": 1
     },
     {
         "id": 4,
@@ -473,20 +305,10 @@
                     "id": 14,
                     "name": "type4",
                     "instructions": "Test instructions",
-                    "priority": 900,
-                    "image": "/assets/type4.png",
-                    "version": 0,
-                    "dateCreated": "18/07/2019 12:57:07",
-                    "lastUpdated": "18/07/2019 12:57:07",
-                    "dateCreatedEPOC": 1563447427244,
-                    "lastUpdatedEPOC": 1563447427244
+                    "priority": 900
                 },
                 "image": "/assets/point.jpg",
-                "version": 1,
-                "dateCreated": "18/07/2019 12:57:07",
-                "lastUpdated": "18/07/2019 12:57:07",
-                "dateCreatedEPOC": 1563447427277,
-                "lastUpdatedEPOC": 1563447427330
+                "version": 1
             },
             {
                 "id": 19,
@@ -496,28 +318,14 @@
                     "id": 14,
                     "name": "type4",
                     "instructions": "Test instructions",
-                    "priority": 900,
-                    "image": "/assets/type4.png",
-                    "version": 0,
-                    "dateCreated": "18/07/2019 12:57:07",
-                    "lastUpdated": "18/07/2019 12:57:07",
-                    "dateCreatedEPOC": 1563447427244,
-                    "lastUpdatedEPOC": 1563447427244
+                    "priority": 900
                 },
                 "image": "/assets/point.jpg",
-                "version": 1,
-                "dateCreated": "18/07/2019 12:57:07",
-                "lastUpdated": "18/07/2019 12:57:07",
-                "dateCreatedEPOC": 1563447427257,
-                "lastUpdatedEPOC": 1563447427324
+                "version": 1
             }
         ],
         "image": "/assets/machine.jpg",
-        "version": 1,
-        "dateCreated": "18/07/2019 12:57:07",
-        "lastUpdated": "18/07/2019 12:57:07",
-        "dateCreatedEPOC": 1563447427200,
-        "lastUpdatedEPOC": 1563447427317
+        "version": 1
     },
     {
         "id": 5,
@@ -531,20 +339,10 @@
                     "id": 15,
                     "name": "type5",
                     "instructions": "Test instructionsTestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructionsTestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions",
-                    "priority": 100,
-                    "image": "/assets/type5.png",
-                    "version": 0,
-                    "dateCreated": "18/07/2019 12:57:07",
-                    "lastUpdated": "18/07/2019 12:57:07",
-                    "dateCreatedEPOC": 1563447427248,
-                    "lastUpdatedEPOC": 1563447427248
+                    "priority": 100
                 },
                 "image": "/assets/point.jpg",
-                "version": 1,
-                "dateCreated": "18/07/2019 12:57:07",
-                "lastUpdated": "18/07/2019 12:57:07",
-                "dateCreatedEPOC": 1563447427279,
-                "lastUpdatedEPOC": 1563447427331
+                "version": 1
             },
             {
                 "id": 20,
@@ -554,28 +352,14 @@
                     "id": 15,
                     "name": "type5",
                     "instructions": "Test instructionsTestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructionsTestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions",
-                    "priority": 100,
-                    "image": "/assets/type5.png",
-                    "version": 0,
-                    "dateCreated": "18/07/2019 12:57:07",
-                    "lastUpdated": "18/07/2019 12:57:07",
-                    "dateCreatedEPOC": 1563447427248,
-                    "lastUpdatedEPOC": 1563447427248
+                    "priority": 100
                 },
                 "image": "/assets/point.jpg",
-                "version": 1,
-                "dateCreated": "18/07/2019 12:57:07",
-                "lastUpdated": "18/07/2019 12:57:07",
-                "dateCreatedEPOC": 1563447427259,
-                "lastUpdatedEPOC": 1563447427325
+                "version": 1
             }
         ],
         "image": "/assets/machine.jpg",
-        "version": 1,
-        "dateCreated": "18/07/2019 12:57:07",
-        "lastUpdated": "18/07/2019 12:57:07",
-        "dateCreatedEPOC": 1563447427202,
-        "lastUpdatedEPOC": 1563447427318
+        "version": 1
     },
     {
         "id": 6,
@@ -589,20 +373,10 @@
                     "id": 11,
                     "name": "type1",
                     "instructions": "TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions",
-                    "priority": 1000,
-                    "image": "/assets/type1.png",
-                    "version": 0,
-                    "dateCreated": "18/07/2019 12:57:07",
-                    "lastUpdated": "18/07/2019 12:57:07",
-                    "dateCreatedEPOC": 1563447427232,
-                    "lastUpdatedEPOC": 1563447427232
+                    "priority": 1000
                 },
                 "image": "/assets/point.jpg",
-                "version": 1,
-                "dateCreated": "18/07/2019 12:57:07",
-                "lastUpdated": "18/07/2019 12:57:07",
-                "dateCreatedEPOC": 1563447427282,
-                "lastUpdatedEPOC": 1563447427331
+                "version": 1
             },
             {
                 "id": 21,
@@ -612,20 +386,10 @@
                     "id": 11,
                     "name": "type1",
                     "instructions": "TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions TestInstructions",
-                    "priority": 1000,
-                    "image": "/assets/type1.png",
-                    "version": 0,
-                    "dateCreated": "18/07/2019 12:57:07",
-                    "lastUpdated": "18/07/2019 12:57:07",
-                    "dateCreatedEPOC": 1563447427232,
-                    "lastUpdatedEPOC": 1563447427232
+                    "priority": 1000
                 },
                 "image": "/assets/point.jpg",
-                "version": 1,
-                "dateCreated": "18/07/2019 12:57:07",
-                "lastUpdated": "18/07/2019 12:57:07",
-                "dateCreatedEPOC": 1563447427261,
-                "lastUpdatedEPOC": 1563447427326
+                "version": 1
             }
         ],
         "image": "/assets/machine.jpg",
